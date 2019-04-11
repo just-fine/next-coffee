@@ -7,7 +7,7 @@
 ### install
 micro-coffee is initialized with @fine.sh/cs, you can run this command to initialize the project:
 
-`npx @fine.sh/cs init next`
+`npx @fine.sh/cs init`
 
 <br/>
 
